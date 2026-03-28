@@ -95,24 +95,6 @@ src/train.py
 
 ---
 
-# 📊 Results
-
-### Training Accuracy
-
-<p align="center">
-  <img src="assets/training_accuracy.png" width="650">
-</p>
-
-### Confusion Matrix
-
-<p align="center">
-  <img src="assets/confusion_matrix.png" width="650">
-</p>
-
-These results help evaluate the model's **classification performance and prediction patterns** across different classes.
-
----
-
 # ⚡ Installation
 
 Clone the repository:
